@@ -1,0 +1,9 @@
+Two Conclusions:
+---------------------------
+1: Charter schools have much greater passing rates than District Schools.
+
+2: Schools that contain over 2000 students have much lower overall passing rates than schools that contain below 2,000 students. The difference amounts to as much as 32%.
+
+Summary
+----------------
+This analysis helps us breakdown School and Student Data of a school district and visualize multiple key factors that can contribute to better or worse educational passing rates. Categories include: Average Scores by How Much Money is Spent On Per Student, Average Scores by School Size, Average Scores by School Type, Average Scores by Grade for Each School, Highest Performing and Lowest Performing Schools.
